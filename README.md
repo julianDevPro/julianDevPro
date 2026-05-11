@@ -1,6 +1,7 @@
 # 💫 About Me:
 Ingeniero de Software con formación integral en el diseño, desarrollo y aseguramiento de la calidad de software. <br>Aplico conocimientos científicos, técnicos y de ingeniería para proponer, modelar y desarrollar soluciones <br>tecnológicas innovadoras en lenguajes de programación modernos y plataformas de vanguardia. Con capacidad <br>de liderar y trabajar con equipos multidisciplinarios y gestionar proyectos de software, cumpliendo con <br>estándares nacionales e internacionales para impulsar la modernización, competitividad e innovación en las <br>organizaciones. Experiencia comprobada en desarrollo full stack, infraestructura en la nube y optimización de <br>procesos operativos utilizando Angular, Laravel, Docker, Node.js y AWS. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliandevpro&label=Profile%20views&color=0e75b6&style=flat" alt="juliandevpro" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imnotxulian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliandeveloper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julianpersonal99@gmail.com) 
