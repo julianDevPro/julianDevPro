@@ -24,7 +24,3 @@ Ingeniero de Software con formación integral en el diseño, desarrollo y asegur
 [![](https://visitcount.itsvg.in/api?id=julianDevPro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliandevpro&" alt="juliandevpro" /></p>
-
