@@ -1,6 +1,8 @@
 # 💫 About Me:
 Ingeniero de Software con formación integral en el diseño, desarrollo y aseguramiento de la calidad de software. <br>Aplico conocimientos científicos, técnicos y de ingeniería para proponer, modelar y desarrollar soluciones <br>tecnológicas innovadoras en lenguajes de programación modernos y plataformas de vanguardia. Con capacidad <br>de liderar y trabajar con equipos multidisciplinarios y gestionar proyectos de software, cumpliendo con <br>estándares nacionales e internacionales para impulsar la modernización, competitividad e innovación en las <br>organizaciones. Experiencia comprobada en desarrollo full stack, infraestructura en la nube y optimización de <br>procesos operativos utilizando Angular, Laravel, Docker, Node.js y AWS. 
 
+🌐 Portfolio: juliandevpro.github.io/portfolio
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliandevpro&label=Profile%20views&color=0e75b6&style=flat" alt="juliandevpro" /> </p>
 
 ## 🌐 Socials:
